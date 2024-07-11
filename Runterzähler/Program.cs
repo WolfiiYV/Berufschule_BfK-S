@@ -15,6 +15,7 @@ namespace Taskx12 {
             for (int i = input; i > 0; i--) {
                 Console.WriteLine(i);
             }
+            Console.ReadLine();
         }
     }
 }
