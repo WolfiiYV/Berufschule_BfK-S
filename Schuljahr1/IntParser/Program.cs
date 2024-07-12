@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Task8 {
+namespace IntParserNew {
     internal class Program {
         static void Main(string[] args) {
 
@@ -14,8 +14,7 @@ namespace Task8 {
             for (int i = 0; i <= input; i++) {
                 if (i == input) {
                     Console.Write(i);
-                }
-                else {
+                } else {
                     Console.Write(i + ", ");
                 }
             }

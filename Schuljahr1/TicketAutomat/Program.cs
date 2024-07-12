@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SchaltjahrrechnerNew {
+namespace TicketAutomat {
     internal class Program {
         static void Main(string[] args) {
         }

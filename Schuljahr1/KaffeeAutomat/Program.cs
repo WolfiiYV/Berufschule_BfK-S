@@ -1,6 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Task7 {
+namespace KaffeeAutomatNew {
     internal class Program {
         static void Main(string[] args) {
 
@@ -23,7 +27,7 @@ namespace Task7 {
                     }
 
                     dMuenze = double.Parse(tempVar);
-                }catch (Exception) {
+                } catch (Exception) {
                     continue;
                 }
 

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Allgemeine Informationen über eine Assembly werden über die folgenden
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
-[assembly: AssemblyTitle("Task5")]
+[assembly: AssemblyTitle("Covid3GCheckNew")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Thieme Gruppe")]
-[assembly: AssemblyProduct("Task5")]
-[assembly: AssemblyCopyright("Copyright © Thieme Gruppe 2023")]
+[assembly: AssemblyProduct("Covid3GCheckNew")]
+[assembly: AssemblyCopyright("Copyright © Thieme Gruppe 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Die folgende GUID bestimmt die ID der Typbibliothek, wenn dieses Projekt für COM verfügbar gemacht wird
-[assembly: Guid("231057cd-7f86-4c04-aa14-cdb8388280d0")]
+[assembly: Guid("480f067d-d9ac-457e-ae46-a27699893fea")]
 
 // Versionsinformationen für eine Assembly bestehen aus den folgenden vier Werten:
 //
